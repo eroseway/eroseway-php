@@ -1,0 +1,27 @@
+{
+  "name": "ERoseway/ERoseway-php",
+  "description": "ERoseway API Client for PHP.",
+  "keywords": [
+    "ERoseway",
+    "api"
+  ],
+  "homepage": "https://ERoseway.co.uk/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "CRMHQ and contributors",
+      "homepage": "https://github.com/ERoseway/ERoseway-php/graphs/contributors"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "rmccue/requests": "2.0.1",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ERoseway\\": "lib/"
+    }
+  }
+}
