@@ -2,23 +2,6 @@
 
 ERoseway API Client for PHP.
 
-
-## Composer installation
-
-You can install the bindings via [Composer](https://getcomposer.org/). Run the
-following command:
-
-```
-composer require ERoseway/ERoseway-php
-```
-
-To use the bindings, use Composer's
-[autoload](https://getcomposer.org/doc/01-basic-usage.md#autoloading):
-
-```
-require_once('vendor/autoload.php');
-```
-
 ## Manual installation
 
 If you do not wish to use Composer, you can download the
