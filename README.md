@@ -4,7 +4,7 @@ ERoseway API Client for PHP.
 
 ## Manual installation
 
-If you do not wish to use Composer, you can download the
+Download the
 [latest release](https://github.com/ERoseway/ERoseway-php/releases). Then, to use
 the bindings, include the `init.php` file.
 
